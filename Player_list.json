@@ -1,0 +1,359 @@
+{
+    "1": {
+        "": "0",
+        "Name": "Alif",
+        "Batting": "1",
+        "Bowling": "1",
+        "Player No": "1"
+    },
+    "2": {
+        "": "1",
+        "Name": "Pial",
+        "Batting": "3",
+        "Bowling": "1",
+        "Player No": "2"
+    },
+    "3": {
+        "": "2",
+        "Name": "Mithun(berlin)",
+        "Batting": "2",
+        "Bowling": "2",
+        "Player No": "3"
+    },
+    "4": {
+        "": "3",
+        "Name": "Akib",
+        "Batting": "5",
+        "Bowling": "3",
+        "Player No": "4"
+    },
+    "5": {
+        "": "4",
+        "Name": "Mamun",
+        "Batting": "3",
+        "Bowling": "0",
+        "Player No": "5"
+    },
+    "6": {
+        "": "5",
+        "Name": "Amit",
+        "Batting": "7",
+        "Bowling": "2",
+        "Player No": "6"
+    },
+    "7": {
+        "": "6",
+        "Name": "Haruny(Berlin)",
+        "Batting": "1",
+        "Bowling": "2",
+        "Player No": "7"
+    },
+    "8": {
+        "": "7",
+        "Name": "Farid",
+        "Batting": "1",
+        "Bowling": "0",
+        "Player No": "8"
+    },
+    "9": {
+        "": "8",
+        "Name": "Tashwar",
+        "Batting": "1",
+        "Bowling": "1",
+        "Player No": "9"
+    },
+    "10": {
+        "": "9",
+        "Name": "Salahuddun(Essen)",
+        "Batting": "2",
+        "Bowling": "1",
+        "Player No": "10"
+    },
+    "11": {
+        "": "10",
+        "Name": "Mabud",
+        "Batting": "1",
+        "Bowling": "1",
+        "Player No": "11"
+    },
+    "12": {
+        "": "11",
+        "Name": "Sazzad",
+        "Batting": "3",
+        "Bowling": "2",
+        "Player No": "12"
+    },
+    "13": {
+        "": "12",
+        "Name": "Raihan",
+        "Batting": "0",
+        "Bowling": "0",
+        "Player No": "13"
+    },
+    "14": {
+        "": "13",
+        "Name": "Byzeed(Berlin)",
+        "Batting": "7",
+        "Bowling": "2",
+        "Player No": "14"
+    },
+    "15": {
+        "": "14",
+        "Name": "Fayez",
+        "Batting": "1",
+        "Bowling": "0",
+        "Player No": "15"
+    },
+    "16": {
+        "": "15",
+        "Name": "Arif",
+        "Batting": "5",
+        "Bowling": "5",
+        "Player No": "16"
+    },
+    "17": {
+        "": "16",
+        "Name": "Sayem",
+        "Batting": "3",
+        "Bowling": "2",
+        "Player No": "17"
+    },
+    "18": {
+        "": "17",
+        "Name": "Ashraful",
+        "Batting": "0",
+        "Bowling": "0",
+        "Player No": "18"
+    },
+    "19": {
+        "": "18",
+        "Name": "Hosnayen",
+        "Batting": "1",
+        "Bowling": "0",
+        "Player No": "19"
+    },
+    "20": {
+        "": "19",
+        "Name": "Mizanur(Frankfurt)",
+        "Batting": "0",
+        "Bowling": "0",
+        "Player No": "20"
+    },
+    "21": {
+        "": "20",
+        "Name": "Rashed",
+        "Batting": "2",
+        "Bowling": "2",
+        "Player No": "21"
+    },
+    "22": {
+        "": "21",
+        "Name": "Rakib",
+        "Batting": "4",
+        "Bowling": "2",
+        "Player No": "22"
+    },
+    "23": {
+        "": "22",
+        "Name": "Towsif",
+        "Batting": "0",
+        "Bowling": "0",
+        "Player No": "23"
+    },
+    "24": {
+        "": "23",
+        "Name": "Rizwanul",
+        "Batting": "1",
+        "Bowling": "0",
+        "Player No": "24"
+    },
+    "25": {
+        "": "24",
+        "Name": "Ethene",
+        "Batting": "1",
+        "Bowling": "0",
+        "Player No": "25"
+    },
+    "26": {
+        "": "25",
+        "Name": "Aman Ullah",
+        "Batting": "0",
+        "Bowling": "0",
+        "Player No": "26"
+    },
+    "27": {
+        "": "26",
+        "Name": "Shakkhor(Berlin)",
+        "Batting": "5",
+        "Bowling": "3",
+        "Player No": "27"
+    },
+    "28": {
+        "": "27",
+        "Name": "Himadri",
+        "Batting": "1",
+        "Bowling": "0",
+        "Player No": "28"
+    },
+    "29": {
+        "": "28",
+        "Name": "Ajmol",
+        "Batting": "3",
+        "Bowling": "3",
+        "Player No": "29"
+    },
+    "30": {
+        "": "29",
+        "Name": "Monowar",
+        "Batting": "1",
+        "Bowling": "0",
+        "Player No": "30"
+    },
+    "31": {
+        "": "30",
+        "Name": "Samin",
+        "Batting": "2",
+        "Bowling": "2",
+        "Player No": "31"
+    },
+    "32": {
+        "": "31",
+        "Name": "Syed",
+        "Batting": "0",
+        "Bowling": "0",
+        "Player No": "32"
+    },
+    "33": {
+        "": "32",
+        "Name": "Sazid(Frankfurt)",
+        "Batting": "5",
+        "Bowling": "1",
+        "Player No": "33"
+    },
+    "34": {
+        "": "33",
+        "Name": "Emon",
+        "Batting": "2",
+        "Bowling": "1",
+        "Player No": "34"
+    },
+    "35": {
+        "": "34",
+        "Name": "Robiul",
+        "Batting": "2",
+        "Bowling": "0",
+        "Player No": "35"
+    },
+    "36": {
+        "": "35",
+        "Name": "Nokib(Berlin)",
+        "Batting": "2",
+        "Bowling": "0",
+        "Player No": "36"
+    },
+    "37": {
+        "": "36",
+        "Name": "Md Basir",
+        "Batting": "0",
+        "Bowling": "0",
+        "Player No": "37"
+    },
+    "38": {
+        "": "37",
+        "Name": "Samrat",
+        "Batting": "2",
+        "Bowling": "2",
+        "Player No": "38"
+    },
+    "39": {
+        "": "38",
+        "Name": "Toki",
+        "Batting": "1",
+        "Bowling": "1",
+        "Player No": "39"
+    },
+    "40": {
+        "": "39",
+        "Name": "Ishtiak",
+        "Batting": "1",
+        "Bowling": "2",
+        "Player No": "40"
+    },
+    "41": {
+        "": "40",
+        "Name": "Raihan",
+        "Batting": "1",
+        "Bowling": "3",
+        "Player No": "41"
+    },
+    "42": {
+        "": "41",
+        "Name": "Ashish",
+        "Batting": "5",
+        "Bowling": "4",
+        "Player No": "42"
+    },
+    "43": {
+        "": "42",
+        "Name": "Kaium",
+        "Batting": "3",
+        "Bowling": "3",
+        "Player No": "43"
+    },
+    "44": {
+        "": "43",
+        "Name": "Shovon",
+        "Batting": "2",
+        "Bowling": "5",
+        "Player No": "44"
+    },
+    "45": {
+        "": "44",
+        "Name": "Mahmudul Tanvir",
+        "Batting": "5",
+        "Bowling": "0",
+        "Player No": "45"
+    },
+    "46": {
+        "": "45",
+        "Name": "Tuhin",
+        "Batting": "5",
+        "Bowling": "0",
+        "Player No": "46"
+    },
+    "47": {
+        "": "46",
+        "Name": "Mynul",
+        "Batting": "0",
+        "Bowling": "0",
+        "Player No": "47"
+    },
+    "48": {
+        "": "47",
+        "Name": "Shams",
+        "Batting": "0",
+        "Bowling": "0",
+        "Player No": "48"
+    },
+    "49": {
+        "": "48",
+        "Name": "Rabby",
+        "Batting": "0",
+        "Bowling": "0",
+        "Player No": "49"
+    },
+    "50": {
+        "": "49",
+        "Name": "Reeza",
+        "Batting": "0",
+        "Bowling": "0",
+        "Player No": "50"
+    },
+    "51": {
+        "": "50",
+        "Name": "Badhan",
+        "Batting": "0",
+        "Bowling": "0",
+        "Player No": "51"
+    }
+}

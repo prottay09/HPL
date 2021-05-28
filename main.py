@@ -22,8 +22,8 @@ def main():
     no_of_ABC_catagory_players = env_info.no_of_ABC_catagory_players
 
     # Loading player data
-    filepath = Path(__file__).parents[0].joinpath('player_list.csv')
-    player_info = pd.read_csv(filepath)
+    filepath = Path(__file__).parents[0].joinpath('Player_list.json')
+    player_info = pd.read_json('Player_list.json', orient='index')
     player_info.Batting = player_info.Batting.astype(int)
     player_info.Bowling = player_info.Bowling.astype(int)
     player_info = player_info.set_index('Player No')
