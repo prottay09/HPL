@@ -47,6 +47,8 @@ def main():
         show_current_info(player_no, player_info, players_in_team, current_batting_power, current_bowling_power, remaining_balance, remaining_d_cat_balance)
         print(f'\tSuggested price is : Basic -> {magic(remaining_balance, remaining_d_cat_balance, player_no, current_batting_power, current_bowling_power, players_in_team, target_batting_power, target_bowling_power, no_of_D_catagory_players, player_info)}\n')
         sold_status = str(input('Sold to our team?(y/n) '))
+        if sold_status not in ['y','n']:
+            sold_status = str(input('Wrong input. Sold to our team?(y/n) '))
         sold_status = True if sold_status == 'y' else False
 
         if sold_status is True:
@@ -78,7 +80,7 @@ def main():
 
         else:
             continue
-        if i == total_players-1:
+        if i == (total_players-1):
             show_current_info(player_no, player_info, players_in_team, current_batting_power, current_bowling_power, remaining_balance, remaining_d_cat_balance)
         
 if __name__ == '__main__':
