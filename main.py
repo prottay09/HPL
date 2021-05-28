@@ -72,12 +72,14 @@ def main():
                     current_batting_power = current_batting_power + player_info.iloc[player_no-1].Batting
                     current_bowling_power = current_bowling_power + player_info.iloc[player_no-1].Bowling
                     players_in_team = players_in_team + 1
+                    if remaining_balance < 0:
+                        remaining_d_cat_balance = remaining_d_cat_balance + remaining_balance
+                        remaining_balance = 0
 
         else:
             continue
         if i == total_players-1:
             show_current_info(player_no, player_info, players_in_team, current_batting_power, current_bowling_power, remaining_balance, remaining_d_cat_balance)
         
-
 if __name__ == '__main__':
     main()
