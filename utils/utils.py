@@ -25,6 +25,9 @@ def magic(
     if (int(player_info.iloc[player_no-1].Batting)+ int(player_info.iloc[player_no-1].Bowling)) < 3:
         suggested_price = 300
         print('\tD catagory player')
+    elif remaining_balance == 0:
+        print('You don''t have enough balance')
+        suggested_price = 0
     else:
         avg_batting_star =  batting_power_needed / (9-players_in_team-no_of_D_catagory_players)
         avg_bowling_star = bowling_power_needed / (9-players_in_team-no_of_D_catagory_players)
