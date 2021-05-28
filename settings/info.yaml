@@ -1,0 +1,16 @@
+# defining the variables
+min_player : 9
+max_player : 10
+min_foreign_player : 1
+max_foreign_player : 2
+target_batting_power : 23 # minus the batting power of D cat player
+target_bowling_power : 12 # minus the bowling power of D cat player
+current_batting_power : 7
+current_bowling_power : 2
+total_players : 53
+total_foreign_players : 13
+remaining_balance : 2950
+remaining_d_cat_balance : 1000
+players_in_team : 2
+no_of_D_catagory_players : 3
+no_of_ABC_catagory_players : 4
